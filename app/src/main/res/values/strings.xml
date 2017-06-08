@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Android Controls Demo</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="oslist">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Windows Phone</item>
+    </string-array>
 </resources>
